@@ -1,4 +1,7 @@
-## Hi there 👋
+Building and writing about AI agent infrastructure. Background across partnerships, strategy, cloud engineering, and patents.
+
+#### Buddhi
+An open-source kernel for autonomous agents that decides, per task, **when to act, when to ask, and when to stop**: allocating a bounded budget of model effort and human attention.
 
 <!--
 **m-s-21/m-s-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
