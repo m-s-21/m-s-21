@@ -1,4 +1,4 @@
-Building and writing about AI agent infrastructure. Background across partnerships, strategy, cloud engineering, and patents.
+Building and writing about AI agent infrastructure.
 
 #### Buddhi
 An open-source kernel for autonomous agents that decides, per task, **when to act, when to ask, and when to stop**: allocating a bounded budget of model effort and human attention.
